@@ -6,7 +6,7 @@ public class FinanceApplication {
     double balance;
     HashMap<String, ArrayList<Double>> expenses;
     Converter converter;
-    final Scanner scanner; // fgfgfdgfg
+    final Scanner scanner; // fgfgfdgfg sgsdgdsgsdged
 
     public FinanceApplication(double rubles, Scanner scanner) {
         balance = rubles;
